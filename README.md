@@ -9,6 +9,7 @@ At the top of the file there should be a short introduction and/ or overview tha
 ## Installation
 
 Para la instalacion usa: 
+
 ```
 npm install
 ```
@@ -16,7 +17,7 @@ npm install
 Para correr el servidor de manera local usa:
 
 ```
-nodemon app.js
+npm run dev
 ```
 
 ## Tests
